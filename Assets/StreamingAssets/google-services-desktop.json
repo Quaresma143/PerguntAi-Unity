@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037973272116",
+    "project_id": "perguntaai-22d09",
+    "storage_bucket": "perguntaai-22d09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037973272116:android:f224185c8e930eb371fc61",
+        "android_client_info": {
+          "package_name": "com.perguntai.FirebaseAuthTutorialStarterProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037973272116-496na0iqfhld3oes0ttoh5cf5udq909s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZBoOpqfJgfYTUeAt2O-_wMAxU_UQYKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037973272116-496na0iqfhld3oes0ttoh5cf5udq909s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

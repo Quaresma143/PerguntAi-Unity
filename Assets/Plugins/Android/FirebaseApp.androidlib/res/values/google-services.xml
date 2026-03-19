@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1037973272116</string>
+  <string name="google_storage_bucket" translatable="false">perguntaai-22d09.firebasestorage.app</string>
+  <string name="project_id" translatable="false">perguntaai-22d09</string>
+  <string name="google_api_key" translatable="false">AIzaSyCJZBoOpqfJgfYTUeAt2O-_wMAxU_UQYKo</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCJZBoOpqfJgfYTUeAt2O-_wMAxU_UQYKo</string>
+  <string name="google_app_id" translatable="false">1:1037973272116:android:f224185c8e930eb371fc61</string>
+  <string name="default_web_client_id" translatable="false">1037973272116-496na0iqfhld3oes0ttoh5cf5udq909s.apps.googleusercontent.com</string>
+</resources>
