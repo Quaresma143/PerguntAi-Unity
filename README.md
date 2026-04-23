@@ -26,6 +26,3 @@ Fui o responsável por todo o desenvolvimento do lado do cliente (Frontend), foc
 * **Backend API:** ASP.NET Core (C#)
 * **Base de Dados:** PostgreSQL
 * **Cloud Server:** Microsoft Azure
-
-## 📸 Imagens do Jogo
-*(Vou colocar imagens aqui em breve!)*
